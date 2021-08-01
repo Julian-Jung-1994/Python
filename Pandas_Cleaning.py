@@ -1,6 +1,4 @@
 # packages
-import posixpath
-
 import pandas as pd  # pandas
 import os  # directory
 from datetime import datetime  # date
